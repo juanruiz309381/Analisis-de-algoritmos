@@ -7,3 +7,4 @@ https://github.com/alejandrosalgar/Analisis-de-algoritmos
 
 ## Las tareas se muestran al final del curso por un 20%, las tareas cuentan con su propia carpeta.
 La página para realizar las tareas indivuduales es:
+https://leetcode.com/problems
